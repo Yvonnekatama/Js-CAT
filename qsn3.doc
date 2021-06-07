@@ -1,0 +1,6 @@
+the varibale x is an array used to store the images in the slideshow
+we use the for loop to access all the pictres in the array
+The items in the array are represented by all the elements with the id myslides
+var my index represents the index of each element in the array
+and each indviadual in the array is represented by i
+The if statement and set timeout is used  time how the images will appear.
